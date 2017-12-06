@@ -1,0 +1,89 @@
+Starting main loop
+16026
+Ansal Estella
+Selecting data from loc3
+select _id,city_id,p_name,alias,demography from loc3 where p_name like 'Ansal Estella' or alias like '%,Ansal Estella,%' or alias like '%,Ansal Estella' or alias like 'Ansal Estella,%';
+update listing_a9 set project_id='327' where id = 16026;
+Commiting update project id query
+
+mysql> select _id,city_id,p_name,alias,demography from loc3 where p_name like 'Ansal Estella' or alias like '%,Ansal Estella,%' or alias like '%,Ansal Estella' or alias like 'Ansal Estella,%';
+
++-------+---------+-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| _id   | city_id | p_name            | alias                                                                                                                                                                 | demography |
++-------+---------+-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| 327   | 1.00    | ansal api estella | the estella,ansal estella,ansal housg and construction ltd ansal estella,ansal housg and construction ltd ansalestella,ansalestella,ansal api estella,ansalapiestella | NULL       |
+| 99598 | 1.00    | ansal estella     | ansal estella,ansalestella                                                                                                                                            | NULL       |
++-------+---------+-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+2 rows in set (5.21 sec)
+
+
+
+
+Starting main loop
+16027
+Tashee Capital Gateway
+Selecting data from loc3
+select _id,city_id,p_name,alias,demography from loc3 where p_name like 'Tashee Capital Gateway' or alias like '%,Tashee Capital Gateway,%' or alias like '%,Tashee Capital Gateway' or alias like 'Tashee Capital Gateway,%';
+update listing_a9 set project_id='379' where id = 16027;
+Commiting update project id query
+
+mysql> select _id,city_id,p_name,alias,demography from loc3 where p_name like 'Tashee Capital Gateway' or alias like '%,Tashee Capital Gateway,%' or alias like '%,Tashee Capital Gateway' or alias like 'Tashee Capital Gateway,%';
+
++------+---------+------------------------+----------------------------------------------------------------------------------------------------------------------------------------+------------+
+| _id  | city_id | p_name                 | alias                                                                                                                                  | demography |
++------+---------+------------------------+----------------------------------------------------------------------------------------------------------------------------------------+------------+
+| 379  | 1.00    | tashee capital gateway | tashee the capital gateway,tasheecapitalgateway,tasheethecapitalgateway,tashee capital gateway,92 tashee,tashee capital,tashee gateway | NULL       |
++------+---------+------------------------+----------------------------------------------------------------------------------------------------------------------------------------+------------+
+1 row in set (5.59 sec)
+
+
+Starting main loop
+16028
+Raheja Atlantis
+Selecting data from loc3
+select _id,city_id,p_name,alias,demography from loc3 where p_name like 'Raheja Atlantis' or alias like '%,Raheja Atlantis,%' or alias like '%,Raheja Atlantis' or alias like 'Raheja Atlantis,%';
+update listing_a9 set project_id='436' where id = 16028;
+Commiting update project id query
+
+mysql> select _id,city_id,p_name,alias,demography from loc3 where p_name like 'Raheja Atlantis' or alias like '%,Raheja Atlantis,%' or alias like '%,Raheja Atlantis' or alias like 'Raheja Atlantis,%';
++------+---------+-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| _id  | city_id | p_name          | alias                                                                                                                                                                                                                                       | demography |
++------+---------+-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| 436  | 1.00    | raheja atlantis | rahejaatlantis,atlantis,raheja atlantis,raheja developers raheja atlantis,rahaja atlantis,atlantis raheja,raheja developersraheja atlantis,raheja developersrahejaatlantis,raheja atlantic,reheja atlantis,raheja developers rahejaatlantis | NULL       |
++------+---------+-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+1 row in set (5.38 sec)
+
+
+Starting main loop
+16029
+Emaar Mgf Palm Terraces Select
+Selecting data from loc3
+select _id,city_id,p_name,alias,demography from loc3 where p_name like 'Emaar Mgf Palm Terraces Select' or alias like '%,Emaar Mgf Palm Terraces Select,%' or alias like '%,Emaar Mgf Palm Terraces Select' or alias like 'Emaar Mgf Palm Terraces Select,%';
+update listing_a9 set project_id='58546' where id = 16029;
+Commiting update project id query
+
+mysql> select _id,city_id,p_name,alias,demography from loc3 where p_name like 'Emaar Mgf Palm Terraces Select' or alias like '%,Emaar Mgf Palm Terraces Select,%' or alias like '%,Emaar Mgf Palm Terraces Select' or alias like 'Emaar Mgf Palm Terraces Select,%';
++-------+---------+----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| _id   | city_id | p_name               | alias                                                                                                                                                                                    | demography |
++-------+---------+----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| 58546 | 1.00    | palm terraces select | emaar mgfpalmterracesselect,emaar mgf palm terraces select,emaarmgfpalmterracesselect,palm terraces select,emaar mgfpalm terraces select,palmterracesselect,emaar mgf palmterracesselect | project    |
++-------+---------+----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+1 row in set (4.41 sec)
+
+
+Starting main loop
+16030
+Puri Diplomatic Greens
+Selecting data from loc3
+select _id,city_id,p_name,alias,demography from loc3 where p_name like 'Puri Diplomatic Greens' or alias like '%,Puri Diplomatic Greens,%' or alias like '%,Puri Diplomatic Greens' or alias like 'Puri Diplomatic Greens,%';
+update listing_a9 set project_id='377' where id = 16030;
+Commiting update project id query
+
+mysql> select _id,city_id,p_name,alias,demography from loc3 where p_name like 'Puri Diplomatic Greens' or alias like '%,Puri Diplomatic Greens,%' or alias like '%,Puri Diplomatic Greens' or alias like 'Puri Diplomatic Greens,%';
+
++------+---------+------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| _id  | city_id | p_name                 | alias                                                                                                                                                                                                                                                                | demography |
++------+---------+------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| 377  | 1.00    | puri diplomatic greens | puridiplomaticgreens,puri sec 111,diplomatic greens,puri constructionsdiplomaticgreens,puri constructions diplomatic greens,puri diplomatic sec 111`,puri constructionsdiplomatic greens,diplomaticgreens,puri diplomatic greens,puri constructions diplomaticgreens | NULL       |
++------+---------+------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+1 row in set (5.33 sec)
