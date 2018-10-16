@@ -1,5 +1,3 @@
-#author : abha
-
 #first, standardization of project locations of a9 and bm is done using functions insert_city_id() to insert a city_id and project_id() for project_id, address_id and project_add_id.
 #then, sale_rent field is standardized to contain only "Sale" and "Rent" values. 
 #the area in sqft is calculated by unit conversion and then the rate in sqft is calculated.
